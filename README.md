@@ -1,0 +1,1 @@
+This repository contains two programs: (1) The practical DLN distinguisher for 6-round ChaCha256 and (2) Experimental verification codes for estimating the correlations of 13 linear approximations. The project is implemented in C/C++ and can be executed on standard PC platforms.
